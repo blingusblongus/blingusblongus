@@ -1,9 +1,9 @@
 ### Oh, hello!
 
 ## Nice of you to drop by. 
-Don't mind that ancient google scripts repo in the corner; I assure you, he's harmless.
+*Don't mind that ancient google scripts repo in the corner; I assure you, he's harmless.*
 
-## Feel free to take a look around - just give me a holler if you need anything :)
+### Feel free to take a look around - just give me a holler if you need anything :)
 
 <!--
 **blingusblongus/blingusblongus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
