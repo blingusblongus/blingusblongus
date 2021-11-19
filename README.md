@@ -2,7 +2,7 @@
 
 # Oh, hello!
 
-## Nice of you to drop by. 
+### Nice of you to drop by. 
 *Don't mind that ancient google scripts repo in the corner; I assure you, he's harmless.* 💀
 
 ### Feel free to take a look around - just give me a holler if you need anything :)
