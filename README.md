@@ -9,6 +9,8 @@ Might I recommend checking out my latest project, my [Cribbage Training Mobile A
 
 ### Feel free to take a look around - just give me a holler if you need anything :)
   🖖
+  
+![codewars badge](https://www.codewars.com/users/blingusblongus/badges/small)
  
   <!--
 </div>
