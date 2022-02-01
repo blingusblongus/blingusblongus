@@ -5,7 +5,7 @@
 ### Nice of you to drop by. 
 *Don't mind that ancient google scripts repo in the corner; I assure you, he's harmless.* 💀
   
-Might I recommend checking out my latest project, my [Cribbage Training Mobile App](https://github.com/blingusblongus/cribbage-trainer-solo-project)?
+Check out my pinned projects, or take a look at the solo project I created while at Prime Academy: [Cribbage Training Mobile App](https://github.com/blingusblongus/cribbage-trainer-solo-project)
 
 ### Feel free to take a look around - just give me a holler if you need anything :)
   🖖
