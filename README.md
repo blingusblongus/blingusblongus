@@ -3,6 +3,10 @@
 # Oh, hello!
 
 ### Nice of you to drop by. 
+
+Talk to me about Advent of Code or Vim, or help me find the bugs in my latest micro-project (Cribbage API)
+
+<!--
 *Don't mind that ancient google scripts repo in the corner; I assure you, he's harmless.* 💀
   
 Check out my pinned projects, or take a look at the solo project I created while at Prime Academy: [Cribbage Training Mobile App](https://github.com/blingusblongus/cribbage-trainer-solo-project)
@@ -11,7 +15,7 @@ Check out my pinned projects, or take a look at the solo project I created while
   🖖
   
 ![codewars badge](https://www.codewars.com/users/blingusblongus/badges/small)
- 
+ -->
   <!--
 </div>
 
